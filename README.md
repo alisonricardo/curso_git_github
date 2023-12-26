@@ -91,4 +91,3 @@ Traz todas as alterações de outra branch para “mergear”com a branch atual.
 ## Contatos
 
 email: design@alisonricardo.com.br
-Telefone: 12345678
