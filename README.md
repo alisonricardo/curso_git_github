@@ -92,3 +92,4 @@ Traz todas as alterações de outra branch para “mergear”com a branch atual.
 
 email: design@alisonricardo.com.br
 Telefone: 12345678
+git status
