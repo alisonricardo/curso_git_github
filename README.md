@@ -92,3 +92,5 @@ Traz todas as alterações de outra branch para “mergear”com a branch atual.
 
 email: design@yahoo.com.br
 Telefone: 12345678
+
+Obrigado pessoal.
